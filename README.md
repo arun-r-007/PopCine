@@ -130,16 +130,6 @@ PopCine/
 
 ---
 
-## What I Learned
-
-* Real-world use of React hooks and state
-* Environment configuration with Vite
-* Consuming external APIs securely
-* UI design principles with Tailwind CSS
-* Structuring frontend apps for scalability
-
----
-
 ## Website Screenshots
 
 ![Website Screenshots](https://github.com/user-attachments/assets/86779545-6057-4488-aa64-96e6536361c4)
