@@ -136,8 +136,3 @@ PopCine/
 ![Website Screenshots](https://github.com/user-attachments/assets/59a65c17-9072-470f-b615-81ae433bbf07)
 ![Website Screenshots](https://github.com/user-attachments/assets/add1b273-cec6-4c59-9578-a07ff2b9f776)
 ---
-
-
-
-
-
